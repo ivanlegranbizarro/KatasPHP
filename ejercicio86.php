@@ -27,4 +27,4 @@ function frecuenciaDeCadaElementoBuiltInFunctions(array $array): array
 
 // print_r(frecuenciaDeCadaElementoDelArray([1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]));
 
-print_r(frecuenciaDeCadaElementoBuiltInFunctions([1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]));
+// print_r(frecuenciaDeCadaElementoBuiltInFunctions([1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]));
